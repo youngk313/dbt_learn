@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: weather
+    database: snowflake_sample_data
+    tables:
+      - name: weather_14_total
